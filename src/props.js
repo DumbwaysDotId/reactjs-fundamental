@@ -5,7 +5,7 @@ import React from "react";
 function Props() {
   return (
     // Code Inside div
-    <div></div>
+    <div> </div>
   );
 }
 
